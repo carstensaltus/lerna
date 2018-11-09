@@ -1,0 +1,26 @@
+{
+  "name": "@om/buttons",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Altus Carstens <carstensaltus@gmail.com>",
+  "homepage": "https://github.com/carstensaltus/lerna#readme",
+  "license": "ISC",
+  "main": "lib/buttons.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carstensaltus/lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/carstensaltus/lerna/issues"
+  }
+}
