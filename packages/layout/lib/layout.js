@@ -5,5 +5,6 @@ import Button from "@om/button";
 module.exports = layout;
 
 function layout() {
-    Button()
+    Button();
+    console.log(123);
 }
